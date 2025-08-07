@@ -1,4 +1,4 @@
-# 🧠 People Flow Detection using Object Tracking & Heatmap Visualization
+# 🧍🏻 People Flow Detection using Object Tracking & Heatmap Visualization
 
 This project implements a complete pipeline to detect, track, and count people entering or exiting a defined area in a video using YOLOv8 and ByteTrack. Additionally, it generates a heatmap showing areas of the most movement or presence intensity.
 
