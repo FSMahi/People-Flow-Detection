@@ -49,8 +49,8 @@ This project implements a complete pipeline to detect, track, and count people e
 
 ```bash
 .
-├── main_tracking_counting.py      # Tracking + IN/OUT counting code
-├── heatmap_generator.py          # Heatmap generation code
+├── count.py      # Tracking + IN/OUT counting code
+├── heatmap.py          # Heatmap generation code
 ├── yolov8n.pt                    # YOLOv8 model weights
 ├── people-walking.mp4            # Sample input video
 ├── output_people_flow.mp4        # Processed output video with tracking
